@@ -78,7 +78,7 @@ function sim_carouselSlider(slides, config) {
             tab.style.cursor = 'pointer';
             tab.style.textAlign = 'center';
 
-            if (currentThis.config.tabClass) currentThis.currentTab.className = currentThis.config.tabClass;
+            if (currentThis.config.tabClass) tab.className = currentThis.config.tabClass;
 
             tab.innerHTML = (currentThis.config.tabTitles ? currentThis.config.tabTitles[slideLength - slides.length - 1] : slideLength - slides.length);
             tabWrapper.appendChild(tab);
