@@ -1,7 +1,7 @@
 # sim_carouselSlider
 
 ## What is sim_carouselSlider
-sim_carouselSlider is an easy to use carousel with a sliding effect. There are many settings to choose from, but it looks just fine without configuring any settings. Feel free to read through [sim_carouselSlider.js](https://github.com/JessicaAllison/sim_carouselSlider/edit/master/sim_carouselSlider.js). It's filled with comments making it easier than ever to understand.
+sim_carouselSlider is an easy to use carousel with a sliding effect. There are many settings to choose from, but it looks just fine without configuring any settings. Feel free to read through [sim_carouselSlider.js](https://github.com/JessicaAllison/sim_carouselSlider/blob/master/sim_carouselSlider.js). It's filled with comments making it easier than ever to understand.
 
 **It's created purely with JavaScript.**
 
@@ -83,4 +83,4 @@ var simSld_callBacks = new sim_carouselSlider(mySlides, {
 ```
 
 ## Playground
-[]()
+[JSFiddle](https://jsfiddle.net/4m0r3nux/)
