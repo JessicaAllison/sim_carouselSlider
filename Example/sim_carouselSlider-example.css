@@ -1,0 +1,30 @@
+#mySlider {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.sliderClass {
+    width: 700px;
+    height: 550px;
+    background-color: bisque;
+    border: 1px solid blueviolet;
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-size:contain;
+    color: green;
+}
+
+.sliderClass:nth-of-type(1) {
+    background-image: url("http://i.imgur.com/IXcqVB1.jpg");
+}
+.sliderClass:nth-of-type(2) {
+    background-image: url("http://i.imgur.com/OpP86hg.jpg");
+}
+.sliderClass:nth-of-type(3) {
+    background-image: url("http://i.imgur.com/oWbhwWT.jpg");
+}
+.sliderClass:nth-of-type(4) {
+    background-image: url("http://i.imgur.com/lHCZii8.jpg");
+}
+.sliderClass:nth-of-type(5) {
+    background-image: url("http://i.imgur.com/kCYHAQf.jpg");
+}
