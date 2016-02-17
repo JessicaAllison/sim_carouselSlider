@@ -5,6 +5,10 @@ sim_carouselSlider is an easy to use carousel with a sliding effect. There are m
 
 **It's created purely with JavaScript.**
 
+If you see a problem or have a suggestion, I'd be more than happy to hear it, and try as much as I can to help you! If you want to message me, or show me where you used this library,
+
+**Please email me at: jessica77allison@gmail.com**
+
 ## Basic Usage
 Basic Usage without any setting configurations.
 ```JavaScript
