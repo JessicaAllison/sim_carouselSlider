@@ -83,4 +83,4 @@ var simSld_callBacks = new sim_carouselSlider(mySlides, {
 ```
 
 ## Playground
-[JSFiddle](https://jsfiddle.net/4m0r3nux/)
+**[JSFiddle](https://jsfiddle.net/chpaa0o5/)**
