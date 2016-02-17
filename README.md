@@ -9,6 +9,8 @@ If you see a problem or have a suggestion, I'd be more than happy to hear it, an
 
 **You can email me at: jessica77allison@gmail.com**
 
+![ScreenSho](http://i.imgur.com/Ezrwz6N.gif)
+
 ## Basic Usage
 Basic Usage without any setting configurations.
 ```JavaScript
