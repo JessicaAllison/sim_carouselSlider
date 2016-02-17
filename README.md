@@ -1,4 +1,5 @@
 # sim_carouselSlider
+![ScreenSho](http://i.imgur.com/Ezrwz6N.gif)
 
 ## What is sim_carouselSlider
 sim_carouselSlider is an easy to use carousel with a sliding effect. There are many settings to choose from, but it looks just fine without configuring any settings. Feel free to read through [sim_carouselSlider.js](https://github.com/JessicaAllison/sim_carouselSlider/blob/master/sim_carouselSlider.js). It's filled with comments making it easier than ever to understand.
@@ -8,8 +9,6 @@ sim_carouselSlider is an easy to use carousel with a sliding effect. There are m
 If you see a problem or have a suggestion, I'd be more than happy to hear it, and try as much as I can to help you! If you want to message me, or show me where you used this library...
 
 **You can email me at: jessica77allison@gmail.com**
-
-![ScreenSho](http://i.imgur.com/Ezrwz6N.gif)
 
 ## Basic Usage
 Basic Usage without any setting configurations.
